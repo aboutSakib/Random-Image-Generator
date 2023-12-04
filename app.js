@@ -1,23 +1,23 @@
 const images = {
   messi: [
-    "/image/1.jpg",
-    
-    "/image/2.jpeg",
-    "/image/3.jpg",
-    "/image/4.jpg",
-    "/image/5.jpg",
+    "./image/1.jpg",
+
+    "./image/2.jpeg",
+    "./image/3.jpg",
+    "./image/4.jpg",
+    "./image/5.jpg",
   ],
   ronaldo: [
-    "/image/ronaldo1.jpg",
-    "/image/ronaldo2.jpg",
-    "/image/ronaldo3.jpg",
-    "/image/ronaldo4.jpg",
+    "./image/ronaldo1.jpg",
+    "./image/ronaldo2.jpg",
+    "./image/ronaldo3.jpg",
+    "./image/ronaldo4.jpg",
   ],
   neymar: [
-    "/image/neymar1.jpg",
-    "/image/neymar2.jpeg",
-    "/image/neymar3.jpeg",
-    "/image/neymar4.jpeg",
+    "./image/neymar1.jpg",
+    "./image/neymar2.jpeg",
+    "./image/neymar3.jpeg",
+    "./image/neymar4.jpeg",
   ],
 };
 
