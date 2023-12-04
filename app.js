@@ -1,5 +1,12 @@
 const images = {
-  messi: ["/image/2.jpg", "/image/3.jpg", "/image/4.jpeg", "/image/5.jpg"],
+  messi: [
+    "/image/1.jpg",
+    
+    "/image/2.jpeg",
+    "/image/3.jpg",
+    "/image/4.jpg",
+    "/image/5.jpg",
+  ],
   ronaldo: [
     "/image/ronaldo1.jpg",
     "/image/ronaldo2.jpg",
